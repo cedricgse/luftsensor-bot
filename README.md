@@ -1,4 +1,4 @@
-Air Quality Sensor with Telegram Bot using ESP32
+Air Quality Sensor with Telegram Bot using ESP8266
 
 ## config.h
 ```
